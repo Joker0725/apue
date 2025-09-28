@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -DLINUX -D_GNU_SOURCE   CMakeFiles/uidgid.dir/uidgid.c.o  -o uidgid  ../lib/libapue.a 

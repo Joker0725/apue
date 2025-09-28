@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -DLINUX -D_GNU_SOURCE   CMakeFiles/testerror.dir/testerror.c.o  -o testerror  ../lib/libapue.a 

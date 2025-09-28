@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -DLINUX -D_GNU_SOURCE   CMakeFiles/ls1.dir/ls1.c.o  -o ls1  ../lib/libapue.a 
